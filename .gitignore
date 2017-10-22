@@ -10,3 +10,5 @@ examples/element-ui
 fe.element/element-ui
 .npmrc
 coverage
+element.iml
+package-lock.json
